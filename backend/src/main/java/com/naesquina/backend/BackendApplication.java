@@ -1,4 +1,4 @@
-package na_esquina_back;
+package com.naesquina.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

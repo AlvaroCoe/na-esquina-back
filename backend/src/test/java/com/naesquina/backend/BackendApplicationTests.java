@@ -1,4 +1,4 @@
-package na_esquina_back;
+package com.naesquina.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
